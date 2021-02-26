@@ -8,6 +8,11 @@ class Blog(models.Model):
     body = models.TextField()
     image = models.ImageField(upload_to = 'images/')
     
+    def __str__(self):
+        return self.title
 
-
-#add to the admin
+    def summary(self):
+        return self.body[:100]
+    
+    def pretty_date(self):
+        return self.pub_date.strftime('%b %e %Y')
