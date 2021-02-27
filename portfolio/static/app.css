@@ -1,23 +1,25 @@
-h1{
-    color:blue;
+main #heading{
+  background-color: #475b5a;
 }
-/* .bd-placeholder-img {
-    font-size: 1.125rem;
-    text-anchor: middle;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-  }
 
-  @media (min-width: 768px) {
-    .bd-placeholder-img-lg {
-      font-size: 3.5rem;
-    }
-  } */
+
+.btn {
+  background-color: teal;
+  color:white;
+}
+.btn:hover{
+  color: white;
+}
+section {
+  height: 275px;
+}
+
+
+
 
 .card-body{
-  background-color: green;
+  background-color: #B3C5D1;
+  color: #444444;
 }
 
 img{
@@ -29,4 +31,48 @@ img{
   width: 100%;
   height: 15vw;
   object-fit: cover;
+}
+
+.navbar.scrolled{
+  background: #475b5a;
+  transition: background 400ms;
+}
+
+.navbar{
+  background-color: teal;
+  text:white;
+}
+
+nav a{
+  color:white;
+}
+
+nav a:hover{
+  color: #F9A03F;
+}
+
+#blob{
+  color: white ;
+}
+
+#myself{
+  color: #CE8612;
+}
+
+.album{
+  background-color: #A4B7B5;
+  /* 24232d */
+}
+
+footer{
+  background-color: #A4B7B5;
+}
+
+
+body{
+  background-color: #A4B7B5;
+}
+
+.card{
+  background-color: #A4B7B5;
 }

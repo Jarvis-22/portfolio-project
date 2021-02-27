@@ -1,0 +1,15 @@
+.navbar{
+    background-color: #475b5a;
+    text:white;
+  }
+  nav a:hover{
+    color: #F9A03F;
+  }
+  nav a{
+    color:white;
+  }
+
+  body{
+    background-color: #A4B7B5;
+}
+

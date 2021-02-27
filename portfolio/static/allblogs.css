@@ -1,0 +1,37 @@
+.navbar.scrolled{
+    background: #475b5a;
+    transition: background 400ms;
+  }
+  
+.navbar{
+    background-color: #475b5a;
+    text:white;
+  }
+nav a{
+    color:white;
+  }
+
+nav a:hover{
+    color: #F9A03F;
+  }
+
+body{
+      background-color: #A4B7B5;
+  }
+
+img{
+    height: 30%;
+    width: 30%;
+}
+
+#title{
+    color: black;
+    text-decoration: none;;
+}
+#title:hover{
+    color: #CE8612
+}
+
+#date{
+    height: 0;
+}
