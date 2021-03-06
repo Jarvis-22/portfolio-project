@@ -1,10 +1,10 @@
 .navbar.scrolled{
-    background: #475b5a;
+    background: #3D4152;
     transition: background 400ms;
   }
   
 .navbar{
-    background-color: #475b5a;
+    background-color: #3D4152;
     text:white;
   }
 nav a{
@@ -12,11 +12,11 @@ nav a{
   }
 
 nav a:hover{
-    color: #F9A03F;
+    color: #FFBF00;
   }
 
 body{
-      background-color: #A4B7B5;
+      background-color: #6C464F;
   }
 
 img{
@@ -29,9 +29,18 @@ img{
     text-decoration: none;;
 }
 #title:hover{
-    color: #CE8612
+    color: #FFBF00
 }
 
 #date{
     height: 0;
+
+}
+
+#summ{
+  color:#f0f1f2f3
+}
+
+h2{
+  color:#FFBF00;
 }

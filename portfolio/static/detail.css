@@ -1,15 +1,22 @@
 .navbar{
-    background-color: #475b5a;
+    background-color: #3D4152;
     text:white;
   }
   nav a:hover{
-    color: #F9A03F;
+    color: #FFBF00;
   }
   nav a{
     color:white;
   }
 
   body{
-    background-color: #A4B7B5;
+    background-color: #6C464F;
 }
 
+#full{
+  color: #f0f1f2f3;
+}
+
+h1{
+  color: #FFBF00;
+}

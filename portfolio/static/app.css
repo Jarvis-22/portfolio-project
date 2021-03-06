@@ -1,10 +1,10 @@
 main #heading{
-  background-color: #475b5a;
+  background-color: #6C464F;
 }
 
 
 .btn {
-  background-color: teal;
+  background-color: #006494;
   color:white;
 }
 .btn:hover{
@@ -18,8 +18,8 @@ section {
 
 
 .card-body{
-  background-color: #B3C5D1;
-  color: #444444;
+  background-color: #A3A3A3;
+  color: #555555;
 }
 
 img{
@@ -34,13 +34,13 @@ img{
 }
 
 .navbar.scrolled{
-  background: #475b5a;
+  background: #3D4152;
   transition: background 400ms;
 }
 
 .navbar{
-  background-color: teal;
-  text:white;
+  background-color: #343746;
+  color: white;
 }
 
 nav a{
@@ -48,7 +48,7 @@ nav a{
 }
 
 nav a:hover{
-  color: #F9A03F;
+  color: #FFBF00;
 }
 
 #blob{
@@ -56,23 +56,35 @@ nav a:hover{
 }
 
 #myself{
-  color: #CE8612;
+  color: #FFBF00;
 }
 
 .album{
-  background-color: #A4B7B5;
+  background-color: #6C464F;
   /* 24232d */
 }
 
 footer{
-  background-color: #A4B7B5;
+  background-color: #6C464F;
+  margin-bottom: 0;
 }
 
 
 body{
-  background-color: #A4B7B5;
+  background-color: #333745;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  
 }
 
 .card{
-  background-color: #A4B7B5;
+  background-color: #6C464F;
+}
+
+hr{
+  background-color: #FFBF00;
+}
+
+footer p{
+  margin-bottom: 0;
 }
